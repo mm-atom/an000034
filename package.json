@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000034",
-	"version": "1.0.0",
+	"version": "1.0.202003181135",
 	"description": "获取用户角色菜单",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
