@@ -39,13 +39,14 @@
 	],
 	"license": "MIT",
 	"dependencies": {
-		"@mmstudio/an000014": "1.0.202003171129",
-		"@mmstudio/an000016": "1.0.202003171642",
-		"@mmstudio/an000017": "1.0.202003171129"
+		"@mmstudio/an000014": "1.0.202004170831",
+		"@mmstudio/an000016": "1.0.202004170801",
+		"@mmstudio/an000017": "1.0.202004170802"
 	},
 	"devDependencies": {
 		"@mmstudio/config": "latest",
 		"@mmstudio/global": "latest",
+		"@types/minio": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
 		"ava": "latest",
