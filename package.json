@@ -40,12 +40,15 @@
 		}
 	],
 	"license": "MIT",
-	"dependencies": {
-		"@mmstudio/an000014": "1.0.202004170831",
-		"@mmstudio/an000016": "1.0.202004170801",
-		"@mmstudio/an000017": "1.0.202004170802"
+	"peerDependencies": {
+		"@mmstudio/an000014": "*",
+		"@mmstudio/an000016": "*",
+		"@mmstudio/an000017": "*"
 	},
 	"devDependencies": {
+		"@mmstudio/an000014": "latest",
+		"@mmstudio/an000016": "latest",
+		"@mmstudio/an000017": "latest",
 		"@mmstudio/config": "latest",
 		"@mmstudio/global": "latest",
 		"@types/minio": "latest",
